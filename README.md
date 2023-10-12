@@ -12,7 +12,7 @@ Explora la Mansión, resuelve puzzles y salva a la humanidad.
 
 ## Presentación
 
-[Aquí puedes encontrar la presentación](Presentación - Live Coding Mansión Espiritus.pdf)
+[Aquí puedes encontrar la presentación](Presentación%20-%20Live%20Coding%20Mansión%20Espiritus.pdf)
 
 ## Código fuente
 
