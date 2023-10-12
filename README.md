@@ -1,4 +1,4 @@
-# LiveCoding-Desarrollando-un-juego-usando-GPT - Mansión de los Espíritus 
+# LiveCoding: Desarrollando un juego usando GPT como parser de texto - Mansión de los Espíritus 
 
 Un juego escape room en el que, a través de una sesión de Live Coding, utilizamos GPT para
 hacer más amable la interfaz de un escape room.
